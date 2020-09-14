@@ -1,6 +1,6 @@
-const enigma = require('enigma.js');
-const schema = require('enigma.js/schemas/12.170.2.json');
-const SenseUtilities = require('enigma.js/sense-utilities');
+const enigma = require('@trdaya/enigma.js');
+const schema = require('@trdaya/enigma.js/schemas/12.170.2.json');
+const SenseUtilities = require('@trdaya/enigma.js/sense-utilities');
 
 const MAX_RETRIES = 3;
 

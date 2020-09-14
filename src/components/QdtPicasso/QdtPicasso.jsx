@@ -11,7 +11,6 @@ import LuiSelectionModal from '../QdtLui/LuiSelectionModal';
 import '../../styles/index.scss';
 import './style.scss';
 
-
 let _settings = null;
 let pic = null;
 let maxWidth = '100%';

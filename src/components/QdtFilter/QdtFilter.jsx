@@ -24,7 +24,6 @@ import ExpandedHorizontalTab from './ExpandedHorizontalTab';
 import StateCountsBar from './StateCountsBar';
 import '../../styles/index.scss';
 
-
 /** The Actual Component */
 const QdtFilter = ({
   qDocPromise, cols, qPage, showStateInDropdown, single, hideStateCountsBar, expanded, expandedHorizontal, expandedHorizontalSense, placeholder,

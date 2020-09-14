@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import Preloader from '../../utilities/Preloader';
 import QdtButton from '../QdtButton/QdtButton';
 
-
 const QdtViz = ({
   qAppPromise, id, type, cols, options, noSelections, noInteraction, width, height, minWidth, minHeight, exportData, exportDataTitle, exportDataOptions, exportImg, exportImgTitle, exportImgOptions, exportPdf, exportPdfTitle, exportPdfOptions,
 }) => {
