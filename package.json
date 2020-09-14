@@ -1,6 +1,6 @@
 {
   "name": "@trdaya/qdt-components",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Qlik Demo Team Components 2.5.5-fix-1",
   "main": "dist/qdt-components.js",
   "types": "./types/qdt-components.d.ts",
@@ -24,7 +24,7 @@
     "@types/qlik-visualizationextensions": "^4.0.2",
     "d3": "^5.9.2",
     "deepmerge": "^4.2.2",
-    "@trdaya/enigma.js": "^0.0.2",
+    "@trdaya/enigma.js": "0.0.4",
     "hammerjs": "^2.0.8",
     "leonardo-ui": "^1.7.1",
     "mapbox-gl": "^1.5.0",
